@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020/53ac9f32c308db83279f7428066a811a_res-cms-502s20.jpeg
+file: /media/courses/res-cms-502-competency-based-education-the-why-what-and-how-spring-2020/53ac9f32c308db83279f7428066a811a_res-cms-502s20.jpeg
 file_type: image/jpeg
 image_metadata:
   caption: This course focuses on competency-based education in schools.(Image courtesy
@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: Photo of a metal statue holding a book that says "Education."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-cms-502s20.jpeg
